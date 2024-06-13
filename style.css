@@ -1,0 +1,25 @@
+h1 {
+    color:red;
+    background-color: #fffec8;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    color: orangered;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    color:blueviolet
+}
+
+ul{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(185, 185, 223);
+}
+
+ol{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(166, 221, 166);
+}
