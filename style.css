@@ -2,6 +2,8 @@ h1 {
     color:red;
     background-color: #fffec8;
     font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding: 10px;
 }
 
 h2{
@@ -11,15 +13,19 @@ h2{
 
 p{
     font-family: Arial, Helvetica, sans-serif;
-    color:blueviolet
+    color:blueviolet;
+    padding: 25px;
+    border: #fffec8 solid 10px;
 }
 
 ul{
     font-family: Arial, Helvetica, sans-serif;
     background-color: rgb(185, 185, 223);
+    border: #fffec8 solid 10px;
 }
 
 ol{
     font-family: Arial, Helvetica, sans-serif;
     background-color: rgb(166, 221, 166);
+    border: #fffec8 solid 10px;
 }
